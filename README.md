@@ -9,8 +9,8 @@ the properties of connected devices to a JSON list.
 
 # Compilation
 To compile you need to:
-1. Clone this repository
+1. Clone this repository (`git clone https://github.com/Sage-Infrastructure-Solutions-Group-Inc/LinuxUSBInfo.git`)
 2. Install GoLang
 3. Install libudev (On Debian the package is `libudev-dev`)
-4. Build the software or run the software
+4. Build or run the software
 5. Enjoy!
